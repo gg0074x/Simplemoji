@@ -51,10 +51,13 @@ simplemoji --primary-color '#c9cbd1' --background-color '#f2ecbc'
 # 💽 Installation
 Requirements:
  - Install [Noto Color Emoji](https://fonts.google.com/noto/specimen/Noto+Color+Emoji) font on your system
+ 
+   Can be installed via `apt install fonts-noto-color-emoji` on debian and derivates.
 
 Options:
 - Download from [releases](https://github.com/SergioRibera/Simplemoji/releases)
 - If you use ArchLinux, just install from [Aur](https://aur.archlinux.org/packages/simplemoji)
+- Install via [Homebrew](https://brew.sh/): `brew install SergioRibera/tap/simplemoji`
 
 # 🙇 Usage
 ```
